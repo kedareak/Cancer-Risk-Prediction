@@ -210,4 +210,7 @@ __marimo__/
 #Ignore vscode AI rules
 .github\instructions\codacy.instructions.md
 
-*.pkl
+# Anaconda project files
+anaconda_projects/
+
+
