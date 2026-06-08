@@ -4,6 +4,13 @@
 
 ---
 
+## 📸 App Demo
+
+![App Demo](demo.png)
+
+> 💡 Add your screenshot as `demo.png` in the project folder and push to GitHub.
+
+---
 
 ## 📌 Project Overview
 
@@ -109,7 +116,7 @@ Cancer-Risk-Prediction/
 ├── app.py                          # Streamlit web application
 ├── main.py                         # Entry point
 ├── Cancer_Risk_Prediction_(ML).ipynb  # Full ML notebook (EDA + Training)
-├── cancer-risk-factors.xls         # Dataset
+├── cancer-risk-factors.csv         # Dataset
 ├── final_xgb_class_weighted.pkl    # Trained XGBoost model
 ├── feature_names.pkl               # Feature names used during training
 ├── label_encoder.pkl               # Label encoder for target variable
@@ -122,8 +129,7 @@ Cancer-Risk-Prediction/
 
 ## 🌐 Live Demo
 
-> _Deploy on Streamlit Cloud and add the link here!_  
-> After pushing to GitHub → go to [share.streamlit.io](https://share.streamlit.io) → connect your repo → deploy → paste the link here.
+👉 [Click here to try the app live!](https://cancer-risk-prediction-fed8ujx8gz4jxuk8c6zeqb.streamlit.app/)
 
 ---
 
